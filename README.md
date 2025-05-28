@@ -1,7 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Raul! </h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+
+  - [ACTIVE DIRECTORY HOME LAB](https://github.com/)
+
+<h2>📄 Certifications </h2>
+
+- [CompTia A+](https://www.)
+
+<h2>📘 Currently Studying:</h2>
+
+
+  - [CompTia Security+ ](https:///)
+
+
+<h2> 🤳 Connect📘 with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/raul-gonzalez-17810223b
 
 <!--
-**RGL236/RGL236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
