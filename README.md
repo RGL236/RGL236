@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-  - [ACTIVE DIRECTORY HOME LAB](https://github.com/)
+  - [Diagnosing Random Shutdown on PC](https://github.com/)
 
 <h2>📄 Certifications </h2>
 
