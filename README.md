@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-  - [Diagnosing Random Shutdown on PC](https://github.com/)
+  - [Diagnosing Random Shutdown on PC]https://github.com/RGL236/Diagnosing-PC-random-shutdown/tree/main/)
 
 <h2>📄 Certifications </h2>
 
