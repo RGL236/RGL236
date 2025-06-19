@@ -4,6 +4,8 @@
 
 
   - [Diagnosing Random Shutdown on PC](https://github.com/RGL236/Diagnosing-PC-random-shutdown/tree/main/)
+ - [Fixing Slow Computer and Slow Boot Star Up](https://github.com/RGL236/Diagnosing-PC-random-shutdown/tree/main/)
+
 
 <h2>📄 Certifications </h2>
 
