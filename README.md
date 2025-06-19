@@ -7,7 +7,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [CompTia A+](https://www.)
+- [CompTia A+](https://www.credly.com/badges/a773cc1b-afee-45dd-8865-dacbfbf594f9/linked_in_profile)
 
 <h2>📘 Currently Studying:</h2>
 
